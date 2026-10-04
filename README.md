@@ -9,4 +9,4 @@ Python · Django · JavaScript · N8N · MySQL · Git/GitHub · Java
 - 💈 [AppBarbeariaV1](https://github.com/JoaovtDev7/AppBarbeariaV1) — Sistema de agendamento para barbearia (Java + Swing + MySQL)
 
 ## 📫 Contato
-[LinkedIn](www.linkedin.com/in/joão-vitor-ferreira-597a46212) · joaoferreirapss1@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-ferreira-597a46212/) · joaoferreirapss1@gmail.com
