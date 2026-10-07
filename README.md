@@ -3,7 +3,8 @@
 Estudante de Sistemas de Informação na Una Betim, focado em desenvolvimento de sistemas e banco de dados.
 
 ## 🛠️ Tecnologias
-Python · Django · JavaScript · N8N · MySQL · Git/GitHub · Java
+
+![Tecnologias](https://skillicons.dev/icons?i=python,mysql,django,js,git,github)
 
 ## 📂 Projetos
 - 💈 [AppBarbeariaV1](https://github.com/JoaovtDev7/AppBarbeariaV1) — Sistema de agendamento para barbearia (Java + Swing + MySQL)
